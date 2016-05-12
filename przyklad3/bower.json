@@ -1,0 +1,23 @@
+{
+  "name": "przyklad3",
+  "authors": [
+    "Wojciech Prokop <at4taerial@gmail.com>"
+  ],
+  "description": "Przykład w AngularJS - factory, service i provider. Dependency Injection",
+  "main": "js/app.js",
+  "license": "MIT",
+  "homepage": "https://github.com/eltharis",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5",
+    "bootstrap": "^3.3.6",
+    "angular-ui-router": "ui-route#^0.2.18",
+    "angular-route": "^1.5.5"
+  }
+}

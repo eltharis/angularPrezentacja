@@ -1,0 +1,17 @@
+[
+	{
+		"id": 1,
+		"text": "Nauczyć się Angulara",
+		"active": true
+	},
+	{
+		"id": 2,
+		"text": "Wykorzystać serwis $http",
+		"active": false
+	},
+	{
+		"id": 3,
+		"text": "Wykorzystać providera route",
+		"active": false
+	}
+]
