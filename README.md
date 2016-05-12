@@ -1,0 +1,5 @@
+# angularPrezentacja
+
+Wymagane:
+- npm
+- bower
